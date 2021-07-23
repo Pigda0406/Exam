@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">exam</string>
+    <string name="title_user">列表</string>
+    <string name="title_mine">我的</string>
+    <string name="title_info">使用者資訊</string>
+    <string name="github_docs">GitHub</string>
+    <string name="mine_follow">%s followers．%s following</string>
+</resources>
