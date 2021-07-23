@@ -1,6 +1,6 @@
 package com.martin.exam.github.network
 
-import com.martin.exam.github.data.Users
+import com.martin.exam.github.model.Users
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path

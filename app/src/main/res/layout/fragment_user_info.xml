@@ -6,7 +6,7 @@
 
         <variable
             name="userInfo"
-            type="com.martin.exam.github.data.Users" />
+            type="com.martin.exam.github.model.Users" />
 
     </data>
 

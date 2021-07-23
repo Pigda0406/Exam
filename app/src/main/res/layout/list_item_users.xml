@@ -11,7 +11,7 @@
 
         <variable
             name="listUser"
-            type="com.martin.exam.github.data.Users" />
+            type="com.martin.exam.github.model.Users" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
